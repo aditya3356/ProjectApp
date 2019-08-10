@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectApp</string>
+
+    <string-array name="category">
+        <item>Android</item>
+        <item>CSS</item>
+        <item>C/C++</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Machine Learning</item>
+    </string-array>
+
+</resources>

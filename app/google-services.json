@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14782590138",
+    "firebase_url": "https://projectapp-5b1f9.firebaseio.com",
+    "project_id": "projectapp-5b1f9",
+    "storage_bucket": "projectapp-5b1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14782590138:android:a84ad48a4062ed31",
+        "android_client_info": {
+          "package_name": "com.example.aditya.projectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14782590138-nkfnhg0q9hutisechaknj213r6ols0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ySGZ4bEmka0OfnSg_v3cDNZUtErbYKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14782590138-nkfnhg0q9hutisechaknj213r6ols0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
